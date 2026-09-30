@@ -1,65 +1,56 @@
-3D Horror Movement — Personal Prototype
+# 👁️ 3D Horror Movement — Technical Prototype
 
-This is a small experimental project created to test 3D player movement and first-person exploration for a future 3D horror game.
+> *A foundational technical experiment focusing on first-person movement, camera dynamics, and environmental feel for a future 3D horror game.*
 
-The main purpose of this prototype was to build and test the basic movement system, camera controls, and overall feeling of navigating a 3D environment.
+---
 
-🎮 About the Project
+## 📌 Overview
 
-This is not a full game, but a technical prototype focused on testing the foundation of a future horror project.
+**3D Horror Movement** is a core technical prototype built to establish and test the basic interaction and movement mechanics required for immersive first-person horror experiences. Rather than focusing on full game loops, this project zeroes in on fine-tuning player feel, spatial navigation, camera behavior, and atmospheric lighting.
 
-I created it to experiment with:
+---
 
-- First-person 3D movement;
-- Player controls and camera movement;
-- Walking and exploring a 3D environment;
-- Basic interaction with the environment;
-- Lighting and atmosphere;
-- The overall feeling of moving through a horror game environment.
+## 🎮 Core Focus & Mechanics
 
-🎨 My Creative Work
+* **First-Person Controls:** Responsive 3D character movement and fluid camera rotation.
+* **Spatial Exploration:** Navigating tight corridors and open spaces to test movement pace and collision handling.
+* **Atmospheric Lighting:** Experimenting with light sources and shadows to set a sense of tension and isolation.
+* **Environmental Interaction:** Basic triggers and object interactions within a 3D space.
 
-This project is also part of my process of learning how to create my own games from scratch.
+---
 
-I'm experimenting with creating my own environments, assets, mechanics, and visual ideas instead of relying entirely on ready-made content.
+## 🎨 Creative & Technical Goals
 
-Every prototype helps me understand what works, what doesn't, and what I can improve in my future projects.
+This prototype is part of a hands-on learning process dedicated to building game systems and assets from scratch:
 
-👁️ Future 3D Horror Project
+* **In-House Assets:** Designing custom environments, textures, and mechanics to minimize reliance on pre-made assets.
+* **Movement Dynamics:** Testing how movement speed, acceleration, and camera stability directly impact player tension and horror atmosphere.
+* **Iterative Design:** Using practical tests to discover what feels natural before scaling up into full production.
 
-The main reason I created this prototype was to prepare for a future 3D horror game.
+---
 
-Before starting the actual game, I wanted to test the most basic part of the experience: how the player moves and feels inside the world.
+## 🔨 Technical Stack
 
-Movement, camera control, lighting, sound, and environmental design will eventually become the foundation of the full horror experience.
+* **Engine:** Godot Engine (3D)
+* **Systems:** First-Person Player Controller, 3D Camera System
+* **Visuals:** Custom 3D Environments, Dynamic Lighting & Shadows
+* **Assets:** Custom-made 3D models and materials
 
-🔨 Technologies
+---
 
-- Godot Engine
-- 3D player controller
-- First-person camera
-- 3D environment
-- Lighting
-- Custom-made assets
+## 🚧 Project Status
 
-🚧 Status
+**Status:** `Prototype / Experiment`
 
-Prototype / Experiment
+This repository serves strictly as a technical foundation and sandboxed proof-of-concept. Systems, scripts, and lighting models built here will be iterated on and migrated to future full-scale horror projects.
 
-This is an early technical experiment and is not intended to be a complete game.
+---
 
-The systems and ideas developed here may be reused and improved for a future 3D horror project.
+## 🗺️ Roadmap & Next Steps
 
-💭 What's Next?
-
-The next steps are to experiment with:
-
-- Interaction systems
-- Flashlight mechanics
-- Sound and ambience
-- Environmental storytelling
-- More advanced lighting
-- Horror atmosphere
-- Additional player mechanics
-
-This prototype is simply the beginning of the technical foundation for my future 3D horror project.
+- [ ] Interactive object framework (doors, keys, inspectables)
+- [ ] Flashlight & battery mechanics
+- [ ] Dynamic spatial audio & environmental ambience
+- [ ] Environmental storytelling & puzzle elements
+- [ ] Advanced volumetric lighting & fog effects
+- [ ] Expanded player state mechanics (crouching, sprinting, hiding)
